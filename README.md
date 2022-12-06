@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingdavidekpenyong
+- 👋 Hi, I’m King David
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on building a game website
